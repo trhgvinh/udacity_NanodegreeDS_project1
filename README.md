@@ -16,6 +16,7 @@ The dataset and code are included in this repo, including:
 - survey_results_public.csv: the 2017 StackOverflow survey data, this file is included in the repo as a zip file due to the file size limit of 25MB on Github, to run the code you need to unzip to .csv file on the same directory,
 - survey_results_schema.csv: the 2017 StackOverflow survey schema data,
 - Project1.ipynb: the Jupyter notebook contains the code and analysis.
+- some other python scripts extracted during the lesson Data Science Process to support for data processing: HowToBreakIntoTheField.py and HowToBreakIntoTheFieldSolns.py
 
 The result will help to answer 3 questions mentioned above with appropriate visualization, table, or statistic. Pls refer to the notebook's notes for details.
 

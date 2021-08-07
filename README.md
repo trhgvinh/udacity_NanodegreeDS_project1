@@ -16,3 +16,5 @@ The dataset and code are included in this repo, including:
 - Project1.ipynb: the Jupyter notebook contains the code and analysis.
 
 The result will help to answer 3 questions mentioned above with appropriate visualization, table, or statistic. Pls refer to the notebook's notes for details.
+
+My blog post can be found at this link https://github.com/trhgvinh/udacity_NanodegreeDS_project1/wiki/Blog-Post-for-Project-1-of-Udacity's-Nanodegree-Data-Science-course
